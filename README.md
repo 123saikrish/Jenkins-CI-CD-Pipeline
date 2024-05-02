@@ -1,5 +1,6 @@
 "DEVOPS CI/CD PIPELINE SETUO WITH JENKINS,GIT,MAVEN, DOCKER,AND SONARQUBE"
-This project focuses on setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline using Jenkins, Git, GitHub, Maven, Docker, and
+
+focuses on setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline using Jenkins, Git, GitHub, Maven, Docker, and
 SonarQube. Here's a breakdown of the project steps and components:
 Infrastructure Setup:
 Create an Ubuntu VM using AWS EC2 (t2.medium).
