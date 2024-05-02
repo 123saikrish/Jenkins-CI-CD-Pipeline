@@ -74,3 +74,12 @@ stage('docker container') {
 }
     }
 }
+=====================================================================================
+
+This code is to executive terraform script (which is going to provision ec2 instance)
+Note: first install jenkins, terraform on ec2 / local machine
+Install the plugin of terraform in jenkins
+Create a job in jenkins
+Copy the jenkins script and paste in the jenkins
+Set the global credentials  -new credentials- enter the secret and ID.
+
