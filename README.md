@@ -24,7 +24,6 @@ Integration with SonarQube:
 Install and configure SonarQube server.
 Generate authentication tokens for project analysis.
 Configure SonarQube Scanner plugin in Jenkins.
-Execute SonarQube analysis as a stage in the Jenkins pipeline.
 ===================================================================
 automate the software development lifecycle by integrating various tools and technologies to achieve continuous integration, automated testing, and deployment.
 It provides a comprehensive workflow for building, testing, analyzing, and deploying applications using modern DevOps practices.
